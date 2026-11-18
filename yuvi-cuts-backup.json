@@ -1,0 +1,110 @@
+{
+  "settings": {
+    "title": "YUVI CUTS",
+    "tagline": "Crafting Stories Through Every Frame.",
+    "intro": "I'm Yuvaraj, a filmmaker, video editor and visual storyteller passionate about creating cinematic experiences through storytelling, direction and editing.",
+    "name": "Yuvaraj R.",
+    "about": "I'm Yuvaraj, the creator behind Yuvi Cuts. I work across film direction, video editing, photo editing and videography. My approach is rooted in storytelling — finding the emotion, rhythm and visual language that give every project its own identity.",
+    "aboutExtra": "From short films to promotional content, I enjoy shaping an idea from its first frame to its final cut.",
+    "email": "yuvicuts.studio@gmail.com",
+    "instagram": "https://www.instagram.com/_.yuvi__here._/?hl=en",
+    "profile": "",
+    "logo": ""
+  },
+  "categories": [
+    "Short Films",
+    "Promotional Videos & Reels",
+    "Cinematography & Videography",
+    "Photo Editing & Designs"
+  ],
+  "projects": [
+    {
+      "id": "vembu",
+      "title": "VEMBU",
+      "category": "Short Films",
+      "description": "A feminist social drama exploring menstruation stigma, shame politics and patriarchal control.",
+      "contribution": "Writing · Direction · Editing",
+      "date": "2026",
+      "url": "",
+      "thumb": "",
+      "videoId": ""
+    },
+    {
+      "id": "fitness-opening",
+      "title": "Fitness Essentials — Opening Video",
+      "category": "Promotional Videos & Reels",
+      "description": "A launch film created to announce the opening of Fitness Essentials, Kodungaiyur.",
+      "contribution": "Shoot · Edit",
+      "date": "2026",
+      "url": "",
+      "thumb": "",
+      "videoId": ""
+    },
+    {
+      "id": "fitness-testimonial",
+      "title": "Fitness Essentials — Testimonial",
+      "category": "Promotional Videos & Reels",
+      "description": "A testimonial video featuring actor Kiki Vijay.",
+      "contribution": "Editing",
+      "date": "2026",
+      "url": "",
+      "thumb": "",
+      "videoId": ""
+    },
+    {
+      "id": "fitness-workout",
+      "title": "Fitness Essentials — Workout Video 01",
+      "category": "Cinematography & Videography",
+      "description": "A workout-focused promotional video.",
+      "contribution": "Shoot · Edit",
+      "date": "2026",
+      "url": "",
+      "thumb": "",
+      "videoId": ""
+    },
+    {
+      "id": "fitness-ambience",
+      "title": "Fitness Essentials — Ambience Video",
+      "category": "Cinematography & Videography",
+      "description": "A visual showcase of the fitness space.",
+      "contribution": "Shoot · Edit",
+      "date": "2026",
+      "url": "",
+      "thumb": "",
+      "videoId": ""
+    }
+  ],
+  "software": [
+    {
+      "name": "Adobe Premiere Pro",
+      "icon": "Pr"
+    },
+    {
+      "name": "Adobe Photoshop",
+      "icon": "Ps"
+    },
+    {
+      "name": "Adobe After Effects",
+      "icon": "Ae"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "icon": "Ai"
+    },
+    {
+      "name": "DaVinci Resolve",
+      "icon": "DR"
+    }
+  ],
+  "skills": [
+    "Film Direction",
+    "Video Editing",
+    "Photo Editing",
+    "Cinematography",
+    "Videography",
+    "Visual Storytelling",
+    "Colour Grading",
+    "Motion Graphics",
+    "Promotional Video Production"
+  ]
+}
